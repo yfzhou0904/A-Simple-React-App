@@ -2,7 +2,7 @@
   "name": "test_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zhouyifan0904.github.io/test_react",
+  "homepage": "https://zhouyifan0904.github.io/a_simple_react_app",
   "dependencies": {
     "bootstrap": "^4.3.0",
     "gh-pages": "^2.0.1",
