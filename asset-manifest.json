@@ -1,15 +1,15 @@
 {
-  "main.css": "/a-simple-react-app/static/css/main.dea9cfa2.chunk.css",
-  "main.js": "/a-simple-react-app/static/js/main.c1937b33.chunk.js",
-  "main.js.map": "/a-simple-react-app/static/js/main.c1937b33.chunk.js.map",
-  "runtime~main.js": "/a-simple-react-app/static/js/runtime~main.6467259f.js",
-  "runtime~main.js.map": "/a-simple-react-app/static/js/runtime~main.6467259f.js.map",
-  "static/css/2.2335385d.chunk.css": "/a-simple-react-app/static/css/2.2335385d.chunk.css",
-  "static/js/2.6925159c.chunk.js": "/a-simple-react-app/static/js/2.6925159c.chunk.js",
-  "static/js/2.6925159c.chunk.js.map": "/a-simple-react-app/static/js/2.6925159c.chunk.js.map",
-  "index.html": "/a-simple-react-app/index.html",
-  "precache-manifest.a0020bccff70c1f6995c70eb827ad391.js": "/a-simple-react-app/precache-manifest.a0020bccff70c1f6995c70eb827ad391.js",
-  "service-worker.js": "/a-simple-react-app/service-worker.js",
-  "static/css/2.2335385d.chunk.css.map": "/a-simple-react-app/static/css/2.2335385d.chunk.css.map",
-  "static/css/main.dea9cfa2.chunk.css.map": "/a-simple-react-app/static/css/main.dea9cfa2.chunk.css.map"
+  "main.css": "/A-Simple-React-App/static/css/main.dea9cfa2.chunk.css",
+  "main.js": "/A-Simple-React-App/static/js/main.9ee4c8fd.chunk.js",
+  "main.js.map": "/A-Simple-React-App/static/js/main.9ee4c8fd.chunk.js.map",
+  "runtime~main.js": "/A-Simple-React-App/static/js/runtime~main.a11734d2.js",
+  "runtime~main.js.map": "/A-Simple-React-App/static/js/runtime~main.a11734d2.js.map",
+  "static/css/2.2335385d.chunk.css": "/A-Simple-React-App/static/css/2.2335385d.chunk.css",
+  "static/js/2.6925159c.chunk.js": "/A-Simple-React-App/static/js/2.6925159c.chunk.js",
+  "static/js/2.6925159c.chunk.js.map": "/A-Simple-React-App/static/js/2.6925159c.chunk.js.map",
+  "index.html": "/A-Simple-React-App/index.html",
+  "precache-manifest.22facb6f34aadf8be985f0f7b1f31a0b.js": "/A-Simple-React-App/precache-manifest.22facb6f34aadf8be985f0f7b1f31a0b.js",
+  "service-worker.js": "/A-Simple-React-App/service-worker.js",
+  "static/css/2.2335385d.chunk.css.map": "/A-Simple-React-App/static/css/2.2335385d.chunk.css.map",
+  "static/css/main.dea9cfa2.chunk.css.map": "/A-Simple-React-App/static/css/main.dea9cfa2.chunk.css.map"
 }
